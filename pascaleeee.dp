@@ -1,0 +1,14 @@
+[Project]
+FileName=C:\Users\augus\Documents\algoritmos\trabajo ayed 2\TrabajoAYED\pascaleeee.dp
+Name=pascaleeee
+MainUnit=C:\Users\augus\Documents\algoritmos\trabajo ayed 2\TrabajoAYED\porgrama.pas
+UnitCount=1
+ResFiles=C:\Users\augus\Documents\algoritmos\trabajo ayed 2\TrabajoAYED\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Edit.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Users\augus\Documents\algoritmos\trabajo ayed 2\TrabajoAYED\porgrama.pas
